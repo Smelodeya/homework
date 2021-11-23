@@ -50,3 +50,22 @@
     5.2 Contributing to a Project
     5.3 Maintaining a Project 
     5.4 Summary 
+
+7. Git Tools
+
+    7.1 Revision Selection
+    7.2 Interactive Staging
+    7.3 Stashing and Cleaning
+    7.4 Signing Your Work
+    7.5 Searching
+    7.6 Rewriting History
+    7.7 Reset Demystified
+    7.8 Advanced Merging
+    7.9 Rerere
+    7.10 Debugging with Git
+    7.11 Submodules
+    7.12 Bundling
+    7.13 Replace
+    7.14 Credential Storage
+    7.15 Summary
+
