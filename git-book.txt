@@ -32,7 +32,6 @@
     3.7 Summary
 
 4. Git on the Server
-6. GitHub
 
     4.1 The Protocols
     4.2 Getting Git on a Server
@@ -52,6 +51,7 @@
     5.3 Maintaining a Project 
     5.4 Summary 
 
+6. GitHub
 
     6.1 Account Setup and Configuration
     6.2 Contributing to a Project
@@ -75,3 +75,11 @@
     7.11 Submodules
     7.12 Bundling
     7.13 Replace
+
+8. Customizing Git
+
+    8.1 Git Configuration
+    8.2 Git Attributes
+    8.3 Git Hooks
+    8.4 An Example Git-Enforced Policy
+    8.5 Summary
